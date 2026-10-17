@@ -1,1 +1,1 @@
-Version: Development Edition
+Version: Feature Edition
